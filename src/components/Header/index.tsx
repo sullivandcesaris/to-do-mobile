@@ -1,7 +1,8 @@
-import { Image, View } from "react-native";
+import { View, Image } from "react-native";
 
-import { styles } from "./styles";
 import logo from "../../assets/logo.png";
+import { styles } from "./styles";
+
 
 
 export function Header() {
